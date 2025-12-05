@@ -4,7 +4,9 @@
 ## Organisation - Newcastle University
 ## Date - July 2022
 
-This game is designed to simulate a command line interface (CLI) so that those starting to learn how to use a CLI can practice commands in a contained environment. It is abstracted to a level suitable for the application, as such some commands and features have limited functionality. This is not deemed an issue as it is encouraged to move on to a real CLI as soon as some confidence is gained in order to understand a true system. 
+During my summer placement, I designed and developed an educational Command Line Interface (CLI) training tool built in Unity, drawing on my previous games engineering experience from my BSc. The project was created to support students who are new to CLIs by providing a safe, sandbox-style environment where they can confidently experiment without the risk of damaging real systems or files.
+Many students find the transition from familiar graphical interfaces to text-based commands intimidating, and may avoid using the CLI even when it offers greater efficiency. This tool addresses that challenge by offering a guided, low-risk space to learn core concepts interactively—helping users build confidence, improve fluency, and recognise the advantages of command-driven workflows.
+Alongside the development of the system, I produced comprehensive project documentation covering the rationale, design structure, technical architecture, and formal testing process, as well as deployment and maintenance guidance. The final product was delivered on time and provides a strong foundation for future enhancements, such as expanded functionality, improved immersion, and broader educational use.
 
 > Clone the project [here](https://github.com/jacobhobbs1/Command-Line-Interface-Sim)
 
