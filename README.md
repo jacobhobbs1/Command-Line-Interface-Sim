@@ -1,3 +1,4 @@
+# Command Line Interface Simulator
 ## Author: Jacob Hobbs
 ## Organisation - Newcastle University
 ## Date - July 2022
